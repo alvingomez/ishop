@@ -1,1 +1,4 @@
-
+/*There must NOT be more than one <main> in a document. */
+main{
+    min-height: 80vh;
+}
