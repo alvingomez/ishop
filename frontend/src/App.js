@@ -9,7 +9,7 @@ const App = () =>  {
   return (
     <div>
       <Header />
-      <main>
+      <main className="py-3">
         <Container>
         <h1>Welcome to iShop</h1>
         </Container>
