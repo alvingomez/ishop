@@ -4,6 +4,7 @@ import Product from '../components/Product';
 import products from '../products';
 
 const HomeScreen = () => {
+    //No need to use this.props.products 
     return (
         <div>
             <h1>Latest Products</h1>
